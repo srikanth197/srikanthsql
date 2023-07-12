@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ben 10 vs Naruto</title>
+    <style>
+        title{
+            text-emphasis-color:red;
+        }
+    </style>
+</head>
+<style>
+
+    
+    body{
+        background-image: url("936378.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        
+    }
+    h1{
+        text-align: center;
+        -webkit-text-fill-color:red;
+
+    }
+    img{
+        width: 200px;
+        height: 250px;
+    }
+    .container{
+        margin-left: 20%;
+        display: flex;
+        
+    }
+
+    .Naruto{
+       margin-left: 40%;
+       
+       
+    }
+    video{
+        border: 1px solid black;
+        width: 200px;
+        height: 250px;
+    }
+    h3{
+        text-align: center;;
+        -webkit-text-fill-color:yellow;
+    }
+</style>
+<body>
+       <div class="heading">
+            <h1> Ben 10 Vs Naruto</h1>
+             <div class="container">
+                    <div class="Ben 10">
+                            <h3>Ben 10</h3>
+                                <div class="swam"><img src="C:\Users\VMSK\Downloads\images (5).jpg" alt=""></div>
+                                <div class="eco"><img src="C:\Users\VMSK\Downloads\images (4).jpg" alt=""></div>
+                                <div class="uhumung"><img src="C:\Users\VMSK\Downloads\images (3).jpg" alt=""></div>
+                                <div class="brain"><img src="C:\Users\VMSK\Downloads\images.png" alt=""></div>
+                                <video controls><source src="Avengers believer Tamil version_mp4.mp4" type="video/mp4"></video>
+                    </div>
+                    <div class="Naruto">
+                            <h3>Naruto</h3>
+                                <!-- <div class="Naruto"><img src="C:\Users\VMSK\Downloads\download (3).jpg" alt=""></div> -->
+                                <div class="foxform"><img src="C:\Users\VMSK\Downloads\images.jpg" alt=""></div>
+                                <!-- <div class="Naruto"><img src="C:\Users\VMSK\Downloads\download (7).jpg" alt=""></div> -->
+                                <div class="master"><img src="C:\Users\VMSK\Downloads\images (1).jpg" alt=""></div>
+                                <div class="master"><img src="C:\Users\VMSK\Downloads\download (7).jpg" alt=""></div>
+                                <div class="power"><img src="C:\Users\VMSK\Downloads\images (6).jpg" alt=""></div>
+                                <video controls><source src="Avengers Infinity War - Believer_mp4.mp4" type="video/mp4"></video>
+                    </div>
+            </div>   
+      </div>
+
+
+
+
+
+
+</body>
+</html>
