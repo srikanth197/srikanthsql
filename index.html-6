@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>face picture</title>
+</head>
+<style>
+  body{
+    background-image: url("images\ \(10\).jpg");
+  }
+    .container{
+        margin: 40%;
+    }
+    .face1{
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      background-color: black;
+    }
+    .face{
+        background-color: green;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+    .hear{
+        display: flex;
+        width: 300px;
+    }   
+    .hear1{
+        background-color: green;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+    .hear2{
+        margin-left: 120px;
+        background-color: green;
+         width: 40px;
+         height: 40px;
+         border-radius: 50px;
+
+        
+
+
+
+    }
+     .eye{
+        width: 300px;
+        display: flex;
+     }
+     .eye1{
+        margin-left: 20px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: solid 4px black;
+     }
+     .eye2{
+        margin-left: 70px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: solid 4px black;
+  }
+      .eye11{
+        margin: 15px 20px 10px 15px;
+        width: 8px;
+        height: 8px;
+        background-color: black;
+        border-radius: 50%;
+     } 
+     .eye22{
+        margin: 15px 20px 10px 15px;
+        width: 8px;
+        height: 8px;
+        background-color: black;
+        border-radius: 50%;
+     } 
+  .noise{
+    border:  solid 4px black;
+     margin: 40px 30px 50px 60px; 
+    border-radius: 20px 20px 20px 20px;
+    background-color: yellow;
+    width: 70px;
+    height: 40px;
+    display: flex;
+  }
+  .noise1{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 40%;
+  }
+  .noise2{
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: black;
+    border-radius: 40%;
+    width: 20px;
+    height: 20px;
+  }
+</style>
+<body>
+  <div class="container">
+    <div class="face1">
+
+     <div class="face">
+
+     <div class="hear">
+
+        <div class="hear1"></div>
+
+        <div class="hear2"></div>
+
+     </div>
+
+
+     <div class="eye">
+
+        <div class="eye1">
+            <div class="eye11"></div>
+        </div>
+
+        <div class="eye2">
+            <div class="eye22"></div>
+        </div>
+
+     </div>
+     <div class="noise">
+        <div class="noise1"></div>
+        <div class="noise2"></div>
+     </div>
+
+ </div>
+  </div>
+</div> 
+
+    
+</body>
+</html>
